@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = lisawang1403@outlook.com
+	name = lisa wang
